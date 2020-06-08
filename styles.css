@@ -1,0 +1,53 @@
+.container {
+  width: 70%;
+  margin: auto;
+  padding-top: 30px;
+  text-align: center;
+}
+
+.coin {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #708160;
+}
+
+h1 {
+  margin: 30px;
+  text-align: center;
+ font-family: 'Righteous', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 5rem;
+  color: #ff847c;
+}
+
+h2 {
+  font-size: 2rem;
+  color: #32e0c4;
+  font-family: 'Lexend Tera', sans-serif;
+}
+h3{
+  font-size: 5rem;
+  color: #ff847c;
+  text-align: center;
+    text-shadow: 5px 0 #232931;
+   font-family: 'Righteous', cursive;
+}
+img {
+  width: 200%;
+  position:relative;
+  right: 50px;
+}
+
+footer {
+  margin-top: 3%;
+  margin-bottom: 10%;
+  color: #d8c593;
+font-size: 1.5rem;
+  text-align: center;
+  font-family:'Lobster', cursive;
+
+}
